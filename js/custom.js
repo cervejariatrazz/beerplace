@@ -20,9 +20,9 @@
         slides: [
             { src: 'images/cervejaria-trazz-img1.jpg' },
             { src: 'images/cervejaria-trazz-img2.jpg' },
-			{ src: 'images/cervejaria-trazz-img3.jpg' },
-			{ src: 'images/cervejaria-trazz-img4.jpg' },
-			{ src: 'images/cervejaria-trazz-img5.jpg' }
+	    { src: 'images/cervejaria-trazz-img3.jpg' },
+	    { src: 'images/cervejaria-trazz-img4.jpg' },
+	    { src: 'images/cervejaria-trazz-img5.jpg' },
         ],
         timer: false,
         transition: [ 'zoomOut', ]
