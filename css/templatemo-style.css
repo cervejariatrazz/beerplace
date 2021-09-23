@@ -239,7 +239,8 @@ https://templatemo.com/tm-521-get-ready
   }
 
   .menu-burger.fs {
-    transform: rotate(-180deg) translateY(5px);
+    transform: rotate(-180deg) translateY(5px);	  
+    z-index: 99999;
   }
 
   .menu-items {
