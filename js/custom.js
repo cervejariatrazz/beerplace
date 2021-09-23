@@ -18,11 +18,11 @@
     // ABOUT SLIDER
     $('body').vegas({
         slides: [
-            { src: 'images/cervejaria-trazz-leo.jpg' },
-            { src: 'images/cervejaria-trazz-filipe1.jpg' },
-			{ src: 'images/cervejaria-trazz-taveira1.jpg' },
-			{ src: 'images/cervejaria-trazz-filipe.jpg' },
-			{ src: 'images/cervejaria-trazz-taveira.jpg' },
+            { src: 'images/cervejaria-trazz-img1.jpg' },
+            { src: 'images/cervejaria-trazz-img2.jpg' },
+			{ src: 'images/cervejaria-trazz-img3.jpg' },
+			{ src: 'images/cervejaria-trazz-img4.jpg' },
+			{ src: 'images/cervejaria-trazz-img5.jpg' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
