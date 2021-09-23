@@ -19,9 +19,10 @@
     $('body').vegas({
         slides: [
             { src: 'images/cervejaria-trazz-leo.jpg' },
-            { src: 'images/cervejaria-trazz-filipe.jpg' },
+            { src: 'images/cervejaria-trazz-filipe1.jpg' },
+			{ src: 'images/cervejaria-trazz-taveira1.jpg' },
+			{ src: 'images/cervejaria-trazz-filipe.jpg' },
 			{ src: 'images/cervejaria-trazz-taveira.jpg' },
-			{ src: 'images/cervejaria-trazz.jpg' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
